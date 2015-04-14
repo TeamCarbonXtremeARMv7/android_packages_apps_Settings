@@ -134,6 +134,13 @@
                 android:title="@string/mod_version"
                 android:summary="@string/mod_version_default" />
 
+        <!-- Device CXR version -->
+        <Preference android:key="cxr_version"
+                style="?android:preferenceInformationStyle"
+                android:title="@string/cxr_version"
+                android:summary="@string/cxr_version_default" />
+
+
         <!-- Device firmware version -->
         <Preference android:key="firmware_version" 
                 style="?android:preferenceInformationStyle"
@@ -163,6 +170,12 @@
                 style="?android:preferenceInformationStyle"
                 android:title="@string/build_date"
                 android:summary="@string/build_date_default" />
+
+        <!-- Build type -->
+        <Preference android:key="build_type"
+                style="?android:preferenceInformationStyle"
+                android:title="@string/build_type"
+                android:summary="@string/build_type_default" />
 
         <!-- Detailed build version -->
         <Preference android:key="build_number" 
