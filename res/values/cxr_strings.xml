@@ -12,7 +12,7 @@
    limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-     <string name="cxr_version">CarbonXtremeMOD version</string>
+     <string name="cxr_version">CarbonXtremeROM version</string>
      <string name="cxr_version_default">Unknown</string>
      <string name="build_type">Build type</string>
      <string name="build_type_default">UNOFFICIAL</string>
