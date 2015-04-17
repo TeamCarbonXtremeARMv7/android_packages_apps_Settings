@@ -13,7 +13,7 @@
    limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-     <string name="cxr_version">Versión de CarbonXtremeMOD</string>
+     <string name="cxr_version">Versión de CarbonXtremeROM</string>
      <string name="cxr_version_default">Desconocida</string>
      <string name="build_type">Tipo de compilación</string>
      <string name="build_type_default">UNOFFICIAL</string>
